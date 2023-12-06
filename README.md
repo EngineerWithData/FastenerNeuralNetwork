@@ -2,7 +2,7 @@
 An Artificial Neural Network model example for Cold-formed Steel (CFS) Fastener Connection Backbone Prediction
 
 # What is inside
-* Test Central_Summary_All.csv: This file incorporates 93 physical test data (units: N; mm) of CFS Fastener Connections; 
+* Test_Central_Summary_All.csv: This file incorporates 93 physical test data (units: N; mm) of CFS Fastener Connections; 
 * net_try.pt: This file records all the weight and bias data for each neuron of a well-trained artificial neural network model;
 * A Jupyter Notebook: It shows an example to use the trained neural network model to conduct CFS Fastener Connection Backbone Prediction.
 
